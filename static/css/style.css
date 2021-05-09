@@ -1,0 +1,7 @@
+/* Format jumbotron*/
+/* Image from: https://www.nationalgeographic.org/article/belly-button-biodiversity/ */
+.jumbotron {
+    background-image: url("../images/belly_button_cropped.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
