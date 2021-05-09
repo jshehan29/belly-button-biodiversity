@@ -1,1 +1,3 @@
-# belly-button-biodiversity
+# Belly Button Biodiversity Interactive Dashboard
+
+This project created an interactive dashboard providing the bacterial content from the navel of various human test subjects. The purpose of the study was to find bacterial species that can synthesize proteins that taste like beef to assist a food startup, Improbable Beef, in developing synthetic meat. The dashboard can be searched by the test subject ID number and provides the demographic information, navel washing frequency, and the bacterial content found for each test subject. The webpage was written in HTML using CSS for styling, and the interactivity was incorporated with JavaScript. Bootstrap was also used to make the dashboard mobile responsive.
